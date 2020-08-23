@@ -1,4 +1,4 @@
-# API Mini Project
+# Carl Zeiss API Mini Project
 
 ## Overview
 
